@@ -1,0 +1,21 @@
+<?xml version = "1.0"?>
+<Music_album>
+   <music id="1">
+	   <ArtistName>Namratha </ArtistName>
+	   <company> Rgukt Nuzvid </company>
+	   <date> 12-08-2009 </date>
+	   <format>  CD</format>
+   </music>
+   <music id="2">
+	   <ArtistName>Lakshmi </ArtistName>
+	   <company> Rgukt Rkvalley </company>
+	   <date> 11-10-2011 </date>
+	   <format>  Minidisk</format>
+   </music>
+   <music id="3">
+	   <ArtistName>Vijay</ArtistName>
+	   <company>  Rgukt Ongole</company>
+	   <date> 04-05-2019 </date>
+	   <format>  DVD</format>
+   </music>
+</Music_album>
